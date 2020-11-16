@@ -1,0 +1,4 @@
+[submodule "foo"]
+	path = foo
+	url = https://github.com/e-carlin/sub.git
+	branch = master
